@@ -5,7 +5,7 @@ For a prgrammer to learn how to use the ESP8266 with ArduinoIDE, the follwoing s
 
 1. Setup ArduinoIDE ,ESP8266 repository and CH340 driver.
 1. Understand program upload cylce.
- ..1. Boards.
+..* Boards.
  ..1. Serial Ports and USB2 Serial.
  ..1. 3.3V , 5V.
 1. Understanding the ESP8266 GPIO pins and Features

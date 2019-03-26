@@ -12,4 +12,5 @@ For a prgrammer to learn how to use the ESP8266 with ArduinoIDE, the follwoing s
  ..* The Blink
 1. How to import and use libraries.
 1. Control a led with ESP8266 as web server https://electrosome.com/led-control-esp8266-web-server/
+1. Use Blynk to remoe control a led https://electrosome.com/home-automation-esp8266-blynk-app-iot/
 1. Telegram Bot : https://electrosome.com/led-control-esp8266-telegram-bot/

@@ -11,6 +11,5 @@ For a prgrammer to learn how to use the ESP8266 with ArduinoIDE, the follwoing s
 1. Understanding the ESP8266 GPIO pins and Features. 
  ..* The Blink
 1. How to import and use libraries.
-1. Using Display's.
-1. Using Sensors.
+1. Control a led with ESP8266 as web server https://electrosome.com/led-control-esp8266-web-server/
 1. Telegram Bot : https://electrosome.com/led-control-esp8266-telegram-bot/

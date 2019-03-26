@@ -4,14 +4,16 @@ A serious of Lessons for a 90 minutes Dojo aimed at introducing  programmers to 
 For a prgrammer to learn how to use the ESP8266 with ArduinoIDE, the follwoing skills are necessary:
 
 1. Setup ArduinoIDE ,ESP8266 repository and CH340 driver.
+  * install ArduinoIDE https://dzone.com/articles/programming-the-esp8266-with-the-arduino-ide-in-3
 1. Understand program upload cylce. 
-...* Boards. 
-...* Serial Ports and USB2 Serial. 
-...* 3.3V , 5V. 
+  * Boards. 
+  * Serial Ports and USB2 Serial. 
+  * 3.3V , 5V. 
 1. Understanding the ESP8266 GPIO pins and Features. 
   * The Blink
 1. How to import and use libraries.
-
+  * import Json library
+  * import blynk library
 1. ESP8266 as Client
   * ESP8266 NTP clock
   * ESP8266 Download Weather forcast OpenWeatherMap

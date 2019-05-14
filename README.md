@@ -1,4 +1,4 @@
-# Getting started with ESP82266 and IOT-Dojo
+# Getting started with ESP8266 and IOT-Dojo
 A series of exercises for a 90 minutes Dojo aimed at introducing programmers to the IOT and Micro-controller world.
 
 For a prgrammer to learn how to use the ESP8266 with ArduinoIDE, the follwoing skills are necessary:

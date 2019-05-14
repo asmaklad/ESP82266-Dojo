@@ -18,6 +18,7 @@ For a prgrammer to learn how to use the ESP8266 with ArduinoIDE, the follwoing s
 6. ESP8266 as Client
   * ESP8266 NTP clock
   * ESP8266 consume and parse a JSON web service opendata.ch SwissWeather
+  * Make your Wifi credentials configurable.
 7. ESP8266 with the cloud:
   * Use Blynk to remote control a led 
   * Telegram Bot control a led
